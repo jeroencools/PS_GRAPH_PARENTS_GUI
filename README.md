@@ -1,2 +1,13 @@
-# PS_GRAPH_PARENTS_GUI
-A simple graphical tool that provides to function to update the information of the related contacts of one edu user. 
+### Working with:
+ * 1.19.0               Microsoft.Graph
+
+### Some extra information:
+* https://learn.microsoft.com/en-us/graph/api/relatedcontact-update?view=graph-rest-beta&tabs=http
+* https://learn.microsoft.com/en-us/graph/api/resources/relatedcontact?view=graph-rest-1.0
+* https://learn.microsoft.com/en-us/powershell/microsoftgraph/get-started?view=graph-powershell-1.0
+
+
+
+
+
+### edu_parents_gui.ps1
