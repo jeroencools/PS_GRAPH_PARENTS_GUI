@@ -1,3 +1,7 @@
+### TO DO
+* add the function to choose how many related contacts an edu user has (1, 2, 3 ...)
+* check with MS why only "parent" as a relationship selection is visible within the app
+
 ### Working with:
  * 1.19.0               Microsoft.Graph
 
