@@ -5,9 +5,10 @@
  * 1.19.0               Microsoft.Graph
 
 ### Some extra information:
+* GRAPH https://learn.microsoft.com/en-us/powershell/microsoftgraph/get-started?view=graph-powershell-1.0
 * https://learn.microsoft.com/en-us/graph/api/relatedcontact-update?view=graph-rest-beta&tabs=http
 * https://learn.microsoft.com/en-us/graph/api/resources/relatedcontact?view=graph-rest-1.0
-* https://learn.microsoft.com/en-us/powershell/microsoftgraph/get-started?view=graph-powershell-1.0
+
 
 ![GUI - parents](https://user-images.githubusercontent.com/113233490/211123292-a0d21d54-93b6-4ef5-9648-99877e2f0acf.PNG)
 
