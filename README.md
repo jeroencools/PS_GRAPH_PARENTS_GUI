@@ -12,3 +12,4 @@
 ### edu_parents_gui.ps1
 
 By executing this file, you will open a simple GUI. This will allow you to search for an edu user in your tenant by providing the email address. The tool will then search for the corresponding information of the related contacts of that user. You can adjust the information and then update it. Sometimes it can take a while before the adjustments become visible in the parents app.
+! While testing I noticed the following: only when selecting "parent" as relationship made sure the related contacts were visible in the parents app in teams. Other relationship selections made the related contacts invisible in the app. I have not yet found out of this "work in progress" from Microsoft or a deliberate choice.
